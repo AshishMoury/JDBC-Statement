@@ -1,0 +1,2 @@
+# JDBC Using Statement
+This project showcases the implementation of CRUD (Create, Read, Update, Delete) operations utilizing JDBC (Java Database Connectivity). It adheres to a clean and professional project structure, emphasizing best practices by logically separating concerns into distinct layers: DAO (Data Access Object), service, and model. This approach ensures maintainability, scalability, and clarity in code organization.
